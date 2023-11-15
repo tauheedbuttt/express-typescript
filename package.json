@@ -1,8 +1,8 @@
 {
-  "name": "investment-backend",
+  "name": "ismmart-ims",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/WasiHaider279/investment-backend.git",
+  "repository": "https://github.com/tauheedbuttt/ismmart-ims.git",
   "author": "R-Kazmi <smrkamzi@gmail.com>",
   "license": "MIT",
   "scripts": {
